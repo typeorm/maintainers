@@ -2,7 +2,7 @@
 
 ## Present
 
-- <name> @<handle>
+- @<handle>
 
 ## Agenda
 
@@ -14,21 +14,9 @@
 
 - <item>
 
-### Goals
-
-- <item>
-
-## Strategic Initiatives
-
-- <item>
-
 ## Action Items
 
 - @<handle> - <item>
-
-## Links
-
-- <title>: <link>
 
 ## Next Meeting
 
