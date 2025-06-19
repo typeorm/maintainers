@@ -1,0 +1,31 @@
+# TypeORM Maintainer Meeting Minutes
+
+## Present
+
+- @alumni
+- @mguida
+- @oleg
+- @michaelbromley
+
+## Agenda
+
+### Announcements
+
+- TypeORM website is live!
+
+### Updates
+
+- @michaelbromley attempted to publish new patch version, ran into issues with the provenance mechanism. 
+Suspected it might be a temporary issue on the npm side. @alumni then triggered the workflow using the specific tag, and it worked!
+- @alumni Covered several PRs he has reviewed and merged.
+- @michaelbromley suggested a "maintainers" page on the new website, to give some visibility & credit to the maintainer team. Also
+  a "contributors" list (or at least e.g. top 100) that we can pull from the GH API.
+
+## Action Items
+
+- @alumni working on PR for next release. https://github.com/typeorm/typeorm/pull/11520
+- Potential next patch release in around 2 weeks, if we have by then merged a few more PRs.
+
+## Next Meeting
+
+- Date: 03/07/2026
