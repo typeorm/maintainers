@@ -14,3 +14,7 @@ TypeORM is one of the most popular ORM libraries for the Node.js ecosystem. Orig
 | [David Höck](https://github.com/dlhck) | ![dlhck](https://avatars.githubusercontent.com/dlhck?s=85) | Steering, External Relations |
 | [Lucian Mocanu](https://github.com/alumni) | ![alumni](https://avatars.githubusercontent.com/alumni?s=85) | Technical lead |
 | [Naor Peled](https://github.com/naorpeled) | ![naorpeled](https://avatars.githubusercontent.com/naorpeled?s=85) | Maintainer |
+| [Giorgio Boa](https://github.com/gioboa) | ![naorpeled](https://avatars.githubusercontent.com/gioboa?s=85) | Maintainer |
+| [Piotr Kuczynski](https://github.com/pkuczynski) | ![naorpeled](https://avatars.githubusercontent.com/pkuczynski?s=85) | Maintainer |
+| [Mohammed Gomaa](https://github.com/G0maa) | ![naorpeled](https://avatars.githubusercontent.com/G0maa?s=85) | Maintainer |
+| [Julian Pufler](https://github.com/pujux) | ![naorpeled](https://avatars.githubusercontent.com/pujux?s=85) | Maintainer |
