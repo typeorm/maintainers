@@ -20,3 +20,4 @@ TypeORM is one of the most popular ORM libraries for the Node.js ecosystem. Orig
 | [Julian Pufler](https://github.com/pujux) | ![naorpeled](https://avatars.githubusercontent.com/pujux?s=85) | Maintainer |
 | [Simon Garner](https://github.com/sgarner) | ![naorpeled](https://avatars.githubusercontent.com/sgarner?s=85) | Maintainer |
 | [Pieter Wigboldus](https://github.com/w3nl) | ![naorpeled](https://avatars.githubusercontent.com/w3nl?s=85) | Maintainer |
+| [Mike Guida](https://github.com/mguida22) | ![naorpeled](https://avatars.githubusercontent.com/mguida22?s=85) | Maintainer |
